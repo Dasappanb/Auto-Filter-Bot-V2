@@ -10,7 +10,7 @@ class Translation(object):
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
 For More Details Click Help Button Below..
-@moviesbizzbotz
+@mr_dasappan_malayalam
 </i>"""    
     
     HELP_TEXT = """
@@ -48,11 +48,11 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/crizzbizzyt">CrizzBizz YT</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/mr_dasappan_malayalam">mr dasappan</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://github.com/Dasappanb/Auto-Filter-Bot-V2">Click Me</a></i>
 """
